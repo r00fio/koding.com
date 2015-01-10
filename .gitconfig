@@ -2,3 +2,7 @@
 	email = ugrybkov@gmail.com
 	password = foros160589
 	name = Yury
+[credential]
+	
+[credential]
+	helper = store
